@@ -1,0 +1,7 @@
+{
+  "name": "TaxiFier",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
